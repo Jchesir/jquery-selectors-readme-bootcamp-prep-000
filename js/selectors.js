@@ -17,3 +17,7 @@ function divSelector() {
   $('.pics')
   return $('.pics')
 }
+
+function firstListItem() {
+  $('')
+}
