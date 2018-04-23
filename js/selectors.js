@@ -1,3 +1,4 @@
 function paragraphSelector() {
-  return $('tags')
+   $('p')
+   return $('p')
 }
