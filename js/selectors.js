@@ -19,7 +19,7 @@ function divSelector() {
 }
 
 function firstListItem() {
-  $('.pic-list:first-child')
-  return $('.pic-list:first-child')
+  $('#pic-list:first-child')
+  return $('#pic-list:first-child')
   
 }
